@@ -1,0 +1,24 @@
+# Android
+*.apk
+*.dex
+*.class
+bin/
+gen/
+build/
+.gradle/
+*.iml
+.idea/
+.DS_Store
+
+# Wine/Box64
+prefix/
+drive_c/
+*.log
+tmp/
+
+# System
+*.swp
+*.swo
+*~
+.vscode/
+.env
